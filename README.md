@@ -4,16 +4,20 @@
 **dmuvaa/dmuvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on TakaSmart, a Waste Management Platform that aims to minimize waste going to landfills and reward households for implementing waste management best practices.
+I recently built globetranslator.com, an AI-powered language translation app.
+
+🔭 I’m currently working on 3 SaaS projects: Defined Recipe, Smart Brain Quiz, and Coworking World. Defined Recipes enables users create recipes with available ingredients, Smart Brain Quiz is an Interactive Quiz App, while Coworking World lists all available coworking spaces in the world.
 
 
-🌱 I’m currently learning Backend Concepts in Python. These include Pagination, Caching, Encoding, User Authentication, APIs, and i8n.
+🌱 My go-to stack for SaaS products:
+Next.js (Typescript and Tailwind CSS)
+Supabase (PostgreSQL and Auth)
+Vercel
+
+👯 I’m looking to collaborate on SaaS Products.
 
 
-👯 I’m looking to collaborate on Open Source Projects.
-
-
-💬 I regularly write articles on my personal website (Safaritechblog.com) alongside other websites.
+💬 I regularly write articles on my personal website (techlivened.com) alongside other websites.
 
 
 📫 How to reach me: Email: dmuvaa70@gmail.com.
