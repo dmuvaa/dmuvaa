@@ -4,14 +4,15 @@
 **dmuvaa/dmuvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I recently built globetranslator.com, an AI-powered language translation app.
+I recently built globetranslator.com and definedrecipe.com.
 
-🔭 I’m currently working on 3 SaaS projects: Defined Recipe, Smart Brain Quiz, and Coworking World. Defined Recipes enables users create recipes with available ingredients, Smart Brain Quiz is an Interactive Quiz App, while Coworking World lists all available coworking spaces in the world.
+🔭 I’m currently working on 4 SaaS projects: Smart Brain Quiz, Upcovered, Coursework AI, and Coworking World.
 
 
 🌱 My go-to stack for SaaS products:
 Next.js (Typescript and Tailwind CSS)
 Supabase (PostgreSQL and Auth)
+Shadcn (UI components)
 Vercel
 
 👯 I’m looking to collaborate on SaaS Products.
